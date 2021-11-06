@@ -1,0 +1,14 @@
+C:\Users\masen\source\repos\Assignment3Cs\Assignment3Cs\bin\Debug\netcoreapp3.1\Assignment3Cs.exe
+C:\Users\masen\source\repos\Assignment3Cs\Assignment3Cs\bin\Debug\netcoreapp3.1\Assignment3Cs.deps.json
+C:\Users\masen\source\repos\Assignment3Cs\Assignment3Cs\bin\Debug\netcoreapp3.1\Assignment3Cs.runtimeconfig.json
+C:\Users\masen\source\repos\Assignment3Cs\Assignment3Cs\bin\Debug\netcoreapp3.1\Assignment3Cs.runtimeconfig.dev.json
+C:\Users\masen\source\repos\Assignment3Cs\Assignment3Cs\bin\Debug\netcoreapp3.1\Assignment3Cs.dll
+C:\Users\masen\source\repos\Assignment3Cs\Assignment3Cs\bin\Debug\netcoreapp3.1\Assignment3Cs.pdb
+C:\Users\masen\source\repos\Assignment3Cs\Assignment3Cs\obj\Debug\netcoreapp3.1\Assignment3Cs.csproj.AssemblyReference.cache
+C:\Users\masen\source\repos\Assignment3Cs\Assignment3Cs\obj\Debug\netcoreapp3.1\Assignment3Cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masen\source\repos\Assignment3Cs\Assignment3Cs\obj\Debug\netcoreapp3.1\Assignment3Cs.AssemblyInfoInputs.cache
+C:\Users\masen\source\repos\Assignment3Cs\Assignment3Cs\obj\Debug\netcoreapp3.1\Assignment3Cs.AssemblyInfo.cs
+C:\Users\masen\source\repos\Assignment3Cs\Assignment3Cs\obj\Debug\netcoreapp3.1\Assignment3Cs.csproj.CoreCompileInputs.cache
+C:\Users\masen\source\repos\Assignment3Cs\Assignment3Cs\obj\Debug\netcoreapp3.1\Assignment3Cs.dll
+C:\Users\masen\source\repos\Assignment3Cs\Assignment3Cs\obj\Debug\netcoreapp3.1\Assignment3Cs.pdb
+C:\Users\masen\source\repos\Assignment3Cs\Assignment3Cs\obj\Debug\netcoreapp3.1\Assignment3Cs.genruntimeconfig.cache
